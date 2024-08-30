@@ -6,3 +6,4 @@ Starter code for the Plus Weather project.
 
 - [ ] Implement the methods in `weather.py`.
 - [ ] Verify that everything works as intended by running the tests with `python run_tests.py`.
+# plus-weather-project-template
